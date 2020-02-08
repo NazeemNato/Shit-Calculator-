@@ -13,7 +13,7 @@
 #
 ## Please note
 
-👓 it will work with numbers !!
+👓 it will only work with two numbers
 
 🚮	` Just for fun ` that's all
 
